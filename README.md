@@ -63,4 +63,4 @@ kafka-topics --create --topic tweets-output --partitions 3 --replication-factor 
 ## Authors 
 * [Firas Esbai](https://github.com/firasesbai) 
 ## Licence 
-This project is licenced under the [Apache-2.0 Licence](https://www.apache.org/licenses/LICENSE-2.0) - see the [LICENCE](LICENCE.md) file for details.
+This project is licenced under the [Apache-2.0 Licence](https://www.apache.org/licenses/LICENSE-2.0)
