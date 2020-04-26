@@ -1,4 +1,4 @@
-# Kafka-Streams-Twitter-Example
+# Kafka-Twitter-Example
 This project contains an example that demonstrates how to gather data from Twitter, ingest them using kafka connect in distributed mode and create a stream from them that calculates the number of tweets about kafka ecosystem per country using Kafka Streams and writes the results back to kafka.
 ## Getting started 
 These instructions will get you a copy of the project up and running on your local machine.
